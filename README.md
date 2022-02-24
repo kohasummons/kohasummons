@@ -1,11 +1,11 @@
 ### Hi there 👋
-#### I'm Joshua Omobola. I love community building.
+#### I'm Joshua Omobola. I'm building Spacebar.
 
 
-- 🔭 I’m currently working on hugi
+- 🔭 I’m currently working on Spacebar.
 - 🌱 I’m currently learning Product Design
 - 👯 I’m looking to collaborate on Jupiter
-- 🤔 I’m looking for help with my hairline
+- 🤔 I’m looking for help with my emotions.
 - 💬 Ask me about Anything
 - 📫 How to reach me: 0x000f
 - 😄 Pronouns: he/him
