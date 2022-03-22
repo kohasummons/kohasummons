@@ -1,6 +1,6 @@
 ## 🐑 Supreme Leader, If I may.
 
-I, *Koha* of the Motherboard, raises my glass to welcome you.
+I, *Koha* of the Motherboard, raise my glass to welcome you.
 
 On glorious days, you would find me submitting unsolicited pull requests to projects who have not sought my help but want it anyways. Compiling my ~brain farts~ thoughts, ideas, and musings on a blog which, at the moment is being a very nice host to dusts and cobwebs.
 
