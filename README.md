@@ -7,8 +7,8 @@ On glorious days, you would find me submitting unsolicited pull requests to proj
 My desire is to conquer the world and raise an army of cyborgs who I can bend to my will. Mostly to do my laundry. hahahahh.
 
 Though they come at me with 
-- swords⚔️ 
-- daggers🗡️
+- Swords⚔️ 
+- Daggers🗡️
 - Expensive courses 📚
 
 I wield the greatest weapon of all: *JavaScript*. And *figma*. And *mongoDb*. And *Solidity*.
