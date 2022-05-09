@@ -1,5 +1,5 @@
 ## Hello traveller! I'm Koha
-You are one of the few miracles that I've got to yell about today.
+You are one of the few miracles I am grateful for today.
 
 If you really really want to know what I do, here's a quick outline
 
