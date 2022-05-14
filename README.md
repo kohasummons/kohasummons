@@ -1,9 +1,8 @@
-## Hello traveller! I'm Koha
-You are one of the few miracles I am grateful for today.
+<!-- ## Hello traveller! I'm Koha -->
+Hi! I'm koha. I'm a product designer, software engineer and blockchain sorcerer. Two things i am crazily in love with; computational art and opensource.
 
-If you really really want to know what I do, here's a quick outline
-
-- 🌍 I say up all night fiddling with figma to make products usable, accessible and bangin'
+Urrrm, this too...
+- 🌍 I stay up all night fiddling with figma to make products usable, accessible and bangin'
 - :fire: I'm obsessed about generative arts
 - 🌱 Learning more and studying about Ethereum, XR, web3, Open Source.
 - 💬 Ping me about Product Design, vue, Open source, web3, Technical Writing.
