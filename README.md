@@ -1,7 +1,12 @@
-<!-- ## Hello traveller! I'm Koha -->
+<!-- ![Frame 5](https://user-images.githubusercontent.com/66284362/169669963-74ba97c8-0387-418f-9439-46948e9ee209.svg) -->
+
+<!-- ## Hello  traveller! I'm Koha -->
+![Frame 6](https://user-images.githubusercontent.com/66284362/169669981-448d4f9b-aa09-472a-bc04-19b213fda58a.png)
+
 ## Hi! I'm koha. 
 
 I am a product designer, software engineer and blockchain sorcerer. Two things I am crazily in love with - computational art and opensource.
+
 
 - 🌍 I stay up all night fiddling with figma to make products usable, accessible and bangin'
 - :fire: I'm obsessed about generative arts
