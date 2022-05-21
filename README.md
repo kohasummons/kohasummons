@@ -17,7 +17,7 @@ Two things I am crazily in love with - computational art and opensource.
 - 📫 Reach me: [E-mail](mailto:omobolathejoshua@gmail.com)
 
 ### Blogs
-- [Orbitium](https://koha.hashnode.dev)
+- [Koha's Orbitium](https://koha.hashnode.dev)
 - Dev.to
 - Medium
 
