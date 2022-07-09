@@ -5,7 +5,7 @@
 
 ## Hi! I'm koha. 
 
-I am a product designer, software engineer and blockchain sorcerer currently residing in Nigeria...(add more yarn)
+I am a product designer, software engineer and blockchain sorcerer
 
 Two things I am crazily in love with - computational art and opensource.
 
