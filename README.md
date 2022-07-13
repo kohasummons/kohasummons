@@ -2,7 +2,7 @@
 
 <!-- ## Hello  traveller! I'm Koha -->
 ![Joshua Omobola](https://user-images.githubusercontent.com/66284362/169669981-448d4f9b-aa09-472a-bc04-19b213fda58a.png)
-
+<!-- 
 ## Hi! I'm koha. 
 
 I am a product designer, software engineer and blockchain sorcerer
@@ -21,18 +21,20 @@ Two things I am crazily in love with - computational art and opensource.
 - Dev.to
 - Medium
 
-Currently seeking out my next oppourtunity, If you want to have a discuss, say hi sometimes
+Currently seeking out my next oppourtunity, If you want to have a discuss, say hi sometimes -->
 
 
 
 
 
+Heyy! 
+
+What's your name? I'm koha. or Josh. Whichever. I am a fan of: the rituals of subculture, curation, creative destruction and code.
+I argue kanye has made my most favourite tracks till date. Vue and Figma are my deliquiencies. I suck at writing - Obviously. 
+That's all. For now at least. Catch you sometimes in the wild. or you could reach out on twitter @kohasummons. do you! bye!
 
 
 
 
-
-
-
- 
-#### 🚧 Construction currently ongoing
+<!--  
+#### 🚧 Construction currently ongoing -->
