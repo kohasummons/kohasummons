@@ -29,12 +29,16 @@ Currently seeking out my next oppourtunity, If you want to have a discuss, say h
 
 Heyy! 
 
-What's your name? I'm koha. or Josh. Whichever. I am a fan of: the rituals of subculture, curation, creative destruction and code.
+I'm koha. or Josh. Whichever. I am a fan of: the rituals of subculture, curation, creative destruction and code.
 I argue kanye has made my most favourite tracks till date. Vue and Figma are my deliquiencies. and more recently solidity.
 
 Projects: [Wall of Dreams](wallofdreams.netlify.com)
 <br/>
-That's all. For now at least. Catch you sometimes in the wild. or you could reach out on twitter @kohasummons. do you! bye!
+
+I'm on the lookout for roles that depends on my ability to learn new sturvs, superfast! Advocacy might be a suitable name. or whatever you have in mind. 
+*phew. That's all. For now at least. Catch you sometimes in the wild. or you could reach out on twitter @kohasummons. do you! :zap:
+
+
 
 
 
