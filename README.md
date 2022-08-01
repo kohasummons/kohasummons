@@ -35,7 +35,7 @@ I argue kanye has made my most favourite tracks till date. Vue and Figma are my 
 Projects: [Wall of Dreams](wallofdreams.netlify.com), Waveritium
 <br/>
 
-I'm on the lookout for roles that depends on my ability to learn new sturvs, superfast! Advocacy might be a suitable name. or whatever you have in mind. 
+I'm on the lookout for roles that swoons on my ability to learn new sturvs, superfast! Advocacy might be a suitable name. or whatever you have in mind. 
 *phew. That's all. For now at least. Catch you sometimes in the wild. or you could reach out on twitter @kohasummons. do you! :zap:
 
 
