@@ -1,11 +1,12 @@
 <!-- ![Frame 5](https://user-images.githubusercontent.com/66284362/169669963-74ba97c8-0387-418f-9439-46948e9ee209.svg) -->
 
-<!-- ## Hello  traveller! I'm Koha -->
+<!-- ## Hello  traveller! I'm Koha 
 ![Joshua Omobola](https://user-images.githubusercontent.com/66284362/169669981-448d4f9b-aa09-472a-bc04-19b213fda58a.png)
+-->
 <!-- 
 ## Hi! I'm koha. 
 
-I am a product designer, software engineer and blockchain sorcerer
+I am a product designer, software engineer 
 
 Two things I am crazily in love with - computational art and opensource.
 
@@ -27,22 +28,18 @@ Currently seeking out my next oppourtunity, If you want to have a discuss, say h
 
 
 
-Heyy! 
+Heyy!🌱
 
-I'm koha. or Josh. Whichever. I am a fan of: the rituals of subculture, curation, creative destruction and code.
-I argue kanye has made my most favourite tracks till date. Vue and Figma are my deliquiencies. and more recently solidity.
+I'm koha. I am a product designer, software engineer and more-often-than-usual technical writer.
+
+A fan of: the rituals of subculture, curation, creative destruction and code.
+I argue kanye has made my most favourite tracks till date. Vue and Figma are my deliquiencies. And more recently solidity.
 
 Projects: [Wall of Dreams](wallofdreams.netlify.com), Waveritium
 <br/>
 
-I'm on the lookout for roles that swoons on my ability to learn new sturvs, superfast! Advocacy might be a suitable name. or whatever you have in mind. 
-*phew. That's all. For now at least. Catch you sometimes in the wild. or you could reach out on twitter @kohasummons. do you! :zap:
-
-
-<br/>
-May the lights of opensource guide your way to... 
-*insert your valhalla*
-
+I'm on the lookout for roles that swoons on my ability to learn new sturvs, superfast! Advocacy might be a more refined title. 
+Catch me sometimes in the wild. or you could reach out on twitter @kohasummons.:zap:
 
 
 <!--  
