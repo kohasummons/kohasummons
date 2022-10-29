@@ -12,7 +12,7 @@ I write, make videos, foster communities, whatever really to share what I have b
 
 ## Meta
 
-- Pronouns: he/him/they
+- Pronouns: he/him
 - Currently writing — [koha, bugs and machines](https://koha.hashnode.dev), my blog documenting my adventures as an engineer
 - Currently learning — Ethereum Virtual Machines and DevRel-ish stuffs
 - Currently reading — Crafting interpreters by Robert Nystrom
