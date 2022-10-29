@@ -2,7 +2,7 @@ Heyy Heyy! My name is Joshua (fellas out here call me koha — you can too) and 
 
 My interests cut across many parallels and domains. And sometimes, you might catch me musing over topics like XR, neurotech, startups, Cyber Fiction and genre bending musics.
 
-I write, make videos, foster communities, whatever really to share what I have been learning and give someone out there an easier start. Oh, and sometimes those things could be turn out to be:
+I [write](https://koha.hashnode.dev). I make [videos](https://www.youtube.com/channel/UC7-Zub9gIa3iZby6stMY-Ww). I foster [communities](https://#)(coming). Whatever really to share what I have been learning and give someone out there an easier start. Oh, and sometimes those things could be turn out to be:
 
 - poetry
 - planning whatever spark of idea i've got - [OuterSpace]()
